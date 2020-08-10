@@ -11,6 +11,9 @@ WARNING: THINK HARD BEFORE RUN, DO NOT RUN THIS ON YOUR OWN COMPUTER, USE A VIRT
 ### About SDelete
 https://docs.microsoft.com/zh-cn/sysinternals/downloads/sdelete
 
+### How It Works
++ TODO
+
 ### Result
 ![image](https://github.com/1013503897/system_destroy/blob/master/img/damage_system1.png)
 ![image](https://github.com/1013503897/system_destroy/blob/master/img/damage_system2.png)
