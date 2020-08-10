@@ -8,7 +8,7 @@ A program designed to destroy the system by deleting files in system32.
 ### Disclaimer
 WARNING: THINK HARD BEFORE RUN, DO NOT RUN THIS ON YOUR OWN COMPUTER, USE A VIRTUAL MACHINE!
 
-### About SDelet
+### About SDelete
 https://docs.microsoft.com/zh-cn/sysinternals/downloads/sdelete
 
 ### Result
