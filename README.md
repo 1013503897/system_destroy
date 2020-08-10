@@ -1,5 +1,5 @@
 # system_destroy
-A program designed to destroy the system by deleting all the files in system32.
+A program designed to destroy the system by deleting files in system32.
 
 ### Usage
 + Modify .wxy to .bat
