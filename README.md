@@ -6,4 +6,6 @@ A program designed to destroy the system by deleting files in system32.
 + run with Administrator Permission
 
 ### Disclaimer
-WARNING: DO NOT RUN THIS ON YOUR OWN COMPUTER, USE A VIRTUAL MACHINE!
+WARNING: THINK HARD BEFORE RUN, DO NOT RUN THIS ON YOUR OWN COMPUTER, USE A VIRTUAL MACHINE!
+![image](https://github.com/1013503897/system_destroy/img/damage_system1.png)
+![image](https://github.com/1013503897/system_destroy/img/damage_system2.png)
